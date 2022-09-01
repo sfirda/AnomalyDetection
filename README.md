@@ -1,6 +1,9 @@
 # Anomaly Detection
 Project ini mendeteksi anomaly pada mesin menggunakan metode Isolation Forest, Local Outlier Factor, dan Variance Based. 
 Data dibagi menjadi data training dan data testing.
+
+![bokeh_plot (2)](https://user-images.githubusercontent.com/100997606/188029141-69152389-1ae5-48b0-9684-394f588b054b.png)
+
 Dashboard hasil deteksi anomaly pada data testing dapat dilihat pada link [dashboard](https://dash-anomaly-detection.herokuapp.com/).
 
 # Repository
